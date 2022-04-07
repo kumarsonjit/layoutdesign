@@ -1,0 +1,229 @@
+h2{
+  text-align:center;
+  color:white;
+  padding:20px;
+  margin:0;
+}
+.kumar{
+  width:100%;
+  height:150px;
+  background-color:blue;
+  overflow:hidden;
+}
+
+.kumar0{
+  width:100%;
+  height:100px;
+  background-color:blue;
+  overflow:hidden;
+}
+.kumar2{
+  width:29%;
+  height:400px;
+  background-color:blue;
+  border:5px solid white;
+  float:left;
+}
+
+.kumar3{
+  width:69%;
+  height:400px;
+  background-color:blue;
+  border:5px solid white;
+  float:left;
+}
+
+.kumar22{
+  width:55%;
+  height:400px;
+  background-color:blue;
+  border:5px solid white;
+  float:left;
+  overflow:hidden;
+}
+.kumar32{
+  width:43%;
+  height:400px;
+  background-color:white;
+  border:5px solid white;
+  float:left;
+}
+
+.kumar333{
+  width:24%;
+  height:400px;
+  background-color:blue;
+  border:5px solid white;
+  float:left;
+}
+
+.kumar444{
+  width:74%;
+  height:400px;
+  background-color:blue;
+  border:5px solid white;
+  float:left;
+}
+
+.navigation{
+  width:100%;
+  height:100px;
+  background-color:blue;
+  border:5px solid white;
+  text-align:center;
+  overflow:hidden;
+
+}
+ ul{
+ margin-left:300px;
+ padding:0;
+ overflow:hidden;
+ background:blue;
+}
+ ul li{
+ float:left;
+ list-style-type:none;
+}
+
+ ul li a{
+ text-transform: capitalize;
+ text-decoration:none;
+ padding:25px 40px;
+ display:inline-block;
+ color:white;
+ font-size:20px;
+}
+
+.kumar4{
+  width:100%;
+  height:100px;
+  background-color:blue;
+  overflow:hidden;
+}
+.box1{
+  width:100%;
+  height:48%;
+  background-color:Blue;
+  margin:5px;
+  overflow:hidden;
+}
+.box2{
+  width:100%;
+  height:48%;
+  background-color:blue;
+  margin:5px;
+  overflow:hidden;
+}
+.logonav{
+overflow:hidden;
+}
+.four{
+  width:40%;
+  height:100px;
+  background-color:Blue;
+  float:left;
+
+}
+.fournavigation{
+  width:60%;
+  height:100px;
+  background-color:Blue;
+  float:left;
+}
+.four1{
+  width:100%;
+  height:200px;
+  background-color:Blue;
+  border-top:5px solid white;
+}
+.four2{
+  overflow:hidden;
+}
+.four6{
+  width:100%;
+  height:100px;
+  background-color:Blue;
+  border-top:5px solid white;
+}
+.four3{
+  width:33%;
+  height:200px;
+  background-color:Blue;
+  border:2px solid white;
+  float:left;
+}
+.four4{
+  width:33%;
+  height:200px;
+  background-color:Blue;
+  border:2px solid white;
+  float:left;
+}
+.four7{
+  width:33%;
+  height:200px;
+  background-color:Blue;
+  border:2px solid white;
+  float:left;
+}
+.four5{
+  width:100%;
+  height:100px;
+  background-color:Blue;
+}
+
+
+/* 5th layout  */
+.kumar0{
+  overflow:hidden;
+}
+
+.new{
+  width:100%;
+  overflow:hidden;
+}
+
+.five{
+  width:40%;
+  height:405px;
+  background-color:Blue;
+  border:2px solid white;
+  float:left;
+
+}
+.five2{
+  width:59%;
+  background-color:Blue;
+  float:left;
+
+}
+.five3{
+  height:100px;
+  background-color:Blue;
+    border:2px solid white;
+}
+.five4{
+  height:300px;
+  background-color:Blue;
+  border:2px solid white;
+}
+
+/*layout six  */
+
+.box16{
+  overflow:hidden;
+}
+.four16{
+  width:24%;
+  background-color:blue;
+  height:200px;
+  border:7px solid white;
+  float:left;
+}
+.form{
+  background-color:blue;
+}
+
+.form lavel{
+  color:white;
+}
